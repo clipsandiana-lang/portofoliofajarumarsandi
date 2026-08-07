@@ -54,13 +54,13 @@ export default function Contact() {
               target="_blank"
               className="mt-3 block text-lg font-medium hover:text-gold"
             >
-              linkedin.com/in/yourname
+              linkedin.com/in/umarsandi
             </a>
           </div>
 
           <div className="rounded-2xl border border-white/10 p-6">
             <p className="text-sm uppercase tracking-[0.2em] text-gold">
-              Instagram
+            FollowMe on Instagram
             </p>
 
             <a
@@ -68,7 +68,7 @@ export default function Contact() {
               target="_blank"
               className="mt-3 block text-lg font-medium hover:text-gold"
             >
-              FollowMe on Instagram
+              instagram.com/sandiana.art
             </a>
           </div>
 
