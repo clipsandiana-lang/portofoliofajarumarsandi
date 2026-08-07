@@ -37,20 +37,21 @@ export default function Contact() {
             </p>
 
             <a
-              href="mailto:your@email.com"
+              href="mailto:umarsandi@gmail.com"
               className="mt-3 block text-lg font-medium hover:text-gold"
             >
-              your@email.com
+              umarsandi@gmail.com
             </a>
           </div>
 
           <div className="rounded-2xl border border-white/10 p-6">
             <p className="text-sm uppercase tracking-[0.2em] text-gold">
-              LinkedIn
+            Connect on LinkedIn
             </p>
 
             <a
-              href="#"
+              href="https://www.linkedin.com/in/umarsandi/"
+              target="_blank"
               className="mt-3 block text-lg font-medium hover:text-gold"
             >
               linkedin.com/in/yourname
@@ -59,14 +60,15 @@ export default function Contact() {
 
           <div className="rounded-2xl border border-white/10 p-6">
             <p className="text-sm uppercase tracking-[0.2em] text-gold">
-              GitHub
+              Instagram
             </p>
 
             <a
-              href="#"
+              href="https://instagram.com/sandiana.art"
+              target="_blank"
               className="mt-3 block text-lg font-medium hover:text-gold"
             >
-              github.com/yourname
+              FollowMe on Instagram
             </a>
           </div>
 
@@ -76,7 +78,7 @@ export default function Contact() {
             </p>
 
             <p className="mt-3 text-lg font-medium">
-              Indonesia
+              Jakarta Indonesia
             </p>
           </div>
 
