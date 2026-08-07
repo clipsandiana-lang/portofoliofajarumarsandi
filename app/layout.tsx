@@ -14,30 +14,22 @@ const manrope = Manrope({
 });
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://fajarumarsandi.vercel.app"), // nanti ganti jika sudah pakai domain sendiri
+  metadataBase: new URL("https://fajarumarsandi.vercel.app"),
 
   title: {
-    default: "Fajar Umarsandi | Account Manager • Trainer • Digital Creator",
+    default: "Fajar Umarsandi | Trainer • Learning & Development • Digital Creator",
     template: "%s | Fajar Umarsandi",
   },
 
   description:
     "8+ years of experience in Learning & Development, Business Partnership, Account Management, Digital Strategy, and AI-powered Content Creation. Passionate about building people, growing businesses, and creating impactful digital experiences.",
 
-  images: [
-      {
-        url: "/og-image.jpg",
-        width: 1200,
-        height: 630,
-      },
-  ],
-
   keywords: [
     "Fajar Umarsandi",
     "Portfolio",
-    "Account Manager",
     "Learning and Development",
     "Trainer",
+    "Digital Creator",
     "AI Workflow",
     "Digital Strategy",
     "Business Development",
@@ -50,6 +42,7 @@ export const metadata: Metadata = {
       name: "Fajar Umarsandi",
     },
   ],
+
   publisher: "Fajar Umarsandi",
   creator: "Fajar Umarsandi",
 
@@ -62,13 +55,9 @@ export const metadata: Metadata = {
     title: "Fajar Umarsandi",
     description:
       "Building People. Growing Business. Creating Digital Experiences.",
-
     url: "https://fajarumarsandi.vercel.app",
-
     siteName: "Fajar Umarsandi",
-
     locale: "en_US",
-
     type: "website",
 
     images: [
@@ -76,6 +65,7 @@ export const metadata: Metadata = {
         url: "/og-image.jpg",
         width: 1200,
         height: 630,
+        alt: "Fajar Umarsandi — Trainer, Learning & Development, Digital Creator",
       },
     ],
   },
@@ -104,10 +94,7 @@ export default function RootLayout({
     <html lang="en">
       <body className={`${inter.variable} ${manrope.variable}`}>
         {children}
-      <body className={`${inter.variable} ${manrope.variable}`}>
-  {children}
-  <GoogleAnalytics />
-</body>
+        <GoogleAnalytics />
       </body>
     </html>
   );
