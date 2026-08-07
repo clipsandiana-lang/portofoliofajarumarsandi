@@ -14,7 +14,7 @@ const manrope = Manrope({
 });
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://fajarumarsandi.vercel.app"),
+  metadataBase: new URL("https://fajarumarsandi.web.id"),
 
   title: {
     default: "Fajar Umarsandi | Trainer • Learning & Development • Digital Creator",
@@ -55,7 +55,7 @@ export const metadata: Metadata = {
     title: "Fajar Umarsandi",
     description:
       "Building People. Growing Business. Creating Digital Experiences.",
-    url: "https://fajarumarsandi.vercel.app",
+    url: "https://fajarumarsandi.web.id",
     siteName: "Fajar Umarsandi",
     locale: "en_US",
     type: "website",
