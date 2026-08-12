@@ -82,7 +82,7 @@ export default function Hero() {
 
             {/* Badge 1 */}
             <div className="absolute -right-6 top-8 z-20 rounded-2xl border border-white/10 bg-card px-5 py-3 shadow-xl backdrop-blur">
-            <p className="text-2xl font-bold text-gold">9+</p>
+            <p className="text-2xl font-bold text-gold">8+</p>
             <p className="text-xs text-zinc-400">
             Years Experience
             </p>
@@ -91,17 +91,17 @@ export default function Hero() {
             {/* Badge 2 */}
             <div className="absolute -left-8 top-24 z-20 rounded-2xl border border-white/10 bg-card px-5 py-3 shadow-xl backdrop-blur">
             <p className="font-semibold">
-              AI Workflow
+              Trainer
             </p>
             <p className="text-xs text-zinc-400">
-              Automation
+              Learning Development
             </p>
           </div>
 
           {/* Badge 3 */}
           <div className="absolute bottom-10 -right-8 z-20 rounded-2xl border border-white/10 bg-card px-5 py-3 shadow-xl backdrop-blur">
             <p className="font-semibold">
-              Content Strategy
+              Content Creator
             </p>
             <p className="text-xs text-zinc-400">
               Digital Growth
