@@ -4,7 +4,7 @@ import { motion } from "framer-motion";
 
 const experiences = [
   {
-    year: "2022 – Present",
+    year: "2022 – 2026",
     company: "XLSMART",
     logo: "/logos/xlsmart.png",
     position: "Account Manager",
@@ -18,10 +18,10 @@ const experiences = [
     ],
   },
   {
-    year: "2015 – 2022",
+    year: "2013 – 2022",
     company: "Smartfren",
     logo: "/logos/smartfren.png",
-    position: "Regional Trainer (CapDev)",
+    position: "Trainer Learning Development",
     description:
       "Empowered people through learning programs, capability development, and management training.",
     achievements: [

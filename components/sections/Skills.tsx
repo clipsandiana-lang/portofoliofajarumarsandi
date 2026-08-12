@@ -4,16 +4,6 @@ import { motion } from "framer-motion";
 
 const skills = [
   {
-    title: "Business",
-    icon: "💼",
-    items: [
-      "Business Development",
-      "Partnership Management",
-      "Account Management",
-      "Strategic Planning",
-    ],
-  },
-  {
     title: "Learning",
     icon: "🎓",
     items: [
@@ -24,11 +14,22 @@ const skills = [
     ],
   },
   {
+    title: "Business",
+    icon: "💼",
+    items: [
+      "Business Development",
+      "Partnership Management",
+      "Account Management",
+      "Strategic Planning",
+    ],
+  },
+  {
     title: "Digital",
     icon: "🤖",
     items: [
       "AI-Powered Workflow Design",
       "Digital Content Strategy",
+      "Editing Photos & Videos"
     ],
   },
 ];

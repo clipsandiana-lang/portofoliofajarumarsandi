@@ -11,46 +11,38 @@ const projects = [
       "Developed a premium beauty brand with a strong focus on social media strategy, AI-powered workflow, and luxury visual identity.",
       tech: [
         {
-          name: "Branding",
-          link: "/skills/branding",
+          name: "Tiktok",
+          link: "https://www.tiktok.com/@lashsistbydianalestari",
         },
         {
-          name: "AI Workflow",
-          link: "/skills/ai-workflow",
-        },
-        {
-          name: "Content Strategy",
-          link: "/skills/content-strategy",
-        },
-        {
-          name: "Social Media",
-          link: "/skills/social-media",
+          name: "Instagram",
+          link: "https://www.instagram.com/lashsistbydianalestari",
         },
       ],
-    link: "https://www.instagram.com/lashsistbydianalestari",
+    link: "https://www.tiktok.com/@lashsistbydianalestari",
   },
   {
     title: "Sandiana Remix",
-    category: "Music Producer",
-    image: "/projects/sandiana.webp",
+    category: "Music Creator & Remixer",
+    image: "/projects/sandianaremixbanner.webp",
     description:
       "Produced remix music and built a digital creator brand using AI-assisted music production and content marketing.",
       tech: [
         {
           name: "Instagram",
-          link: "/skills/branding",
+          link: "https://www.instagram.com/sandiana.art",
         },
         {
           name: "Tiktok",
-          link: "/skills/ai-workflow",
+          link: "https://www.tiktok.com/@sandianaremix",
         },
         {
-          name: "Content Strategy",
-          link: "/skills/content-strategy",
+          name: "Youtube",
+          link: "https://www.youtube.com/@sandianaremix",
         },
         {
-          name: "Social Media",
-          link: "/skills/social-media",
+          name: "Spotify",
+          link: "https://open.spotify.com/artist/2OssYBK2Tnu2M7HIttUYZ0",
         },
       ],
     link: "https://www.youtube.com/@sandianaremix",
@@ -63,47 +55,26 @@ const projects = [
       "Designed and developed a lightweight finance management web app for school classrooms using Google Apps Script.",
       tech: [
         {
-          name: "Instagram",
-          link: "/skills/branding",
+          name: "Web KasKelas",
+          link: "https://kaskita-7fda.vercel.app/",
         },
-        {
-          name: "Tiktok",
-          link: "/skills/ai-workflow",
-        },
-        {
-          name: "Content Strategy",
-          link: "/skills/content-strategy",
-        },
-        {
-          name: "Social Media",
-          link: "/skills/social-media",
-        },
+
       ],
+      link: "https://kaskita-7fda.vercel.app/",
   },
   {
     title: "Personal Portfolio",
     category: "Web Development",
-    image: "/projects/portofolio.webp",
+    image: "/projects/portofoliofajarumarsandi.webp",
     description:
-      "Modern portfolio website built with Next.js, Tailwind CSS and Framer Motion featuring luxury dark UI.",
+      "Modern portfolio website built with Next.js, Tailwind CSS and Framer Motion featuring luxury dark UI, developed with an AI-assisted workflow to streamline design, development, and creative iteration.",
       tech: [
         {
-          name: "Instagram",
-          link: "/skills/branding",
-        },
-        {
-          name: "Tiktok",
-          link: "/skills/ai-workflow",
-        },
-        {
-          name: "Content Strategy",
-          link: "/skills/content-strategy",
-        },
-        {
-          name: "Social Media",
-          link: "/skills/social-media",
+          name: "Personal Portofolio",
+          link: "www.fajarumarsandi.web.id",
         },
       ],
+      link: "www.fajarumarsandi.web.id",
   },
 ];
 
