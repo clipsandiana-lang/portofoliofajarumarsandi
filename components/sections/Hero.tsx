@@ -53,7 +53,7 @@ export default function Hero() {
               </a>
   
               <a
-                href="/resume.pdf"
+                href="/resumefajarumarsandi.pdf"
                 download
                 className="rounded-full border border-gold px-8 py-4 transition-all duration-300 hover:-translate-y-1 hover:bg-gold hover:text-black"
               >
