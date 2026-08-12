@@ -33,24 +33,24 @@ export default function Footer() {
           <div className="mt-10 flex flex-wrap justify-center gap-8 text-sm">
 
             <a
-              href="#"
+              href="https://www.linkedin.com/in/umarsandi/"
               className="transition duration-300 hover:text-gold"
             >
               LinkedIn
             </a>
 
             <a
-              href="#"
-              className="transition duration-300 hover:text-gold"
-            >
-              GitHub
-            </a>
-
-            <a
-              href="#"
+              href="https://instagram.com/sandiana.art"
               className="transition duration-300 hover:text-gold"
             >
               Instagram
+            </a>
+
+            <a
+              href="https://tiktok.com/@sandianaremix"
+              className="transition duration-300 hover:text-gold"
+            >
+              Tiktok
             </a>
 
           </div>
