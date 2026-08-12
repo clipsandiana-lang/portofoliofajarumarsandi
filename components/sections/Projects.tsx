@@ -50,7 +50,7 @@ const projects = [
   {
     title: "KasKelas",
     category: "School Finance App",
-    image: "/projects/kaskelas.webp",
+    image: "/projects/financesimplewebapp.webp",
     description:
       "Designed and developed a lightweight finance management web app for school classrooms using Google Apps Script.",
       tech: [
